@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PLC_Stamp_mini_2
+D PLC Stamp mini 2
+K HomePlug Green PHY powerline module with line coupling
+F https://www.i2se.com/product/plc-stamp-mini-2/
+$ENDCMP
+#
+#End Doc Library
